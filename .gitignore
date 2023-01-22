@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Kenner82 
-Kenner82
-/
-Credit_Risk_Analysis
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Credit_Risk_Analysis/.gitignore
-@Kenner82
-Kenner82 Update .gitignore
-Latest commit db72dd5 yesterday
- History
- 1 contributor
-129 lines (105 sloc)  1.88 KB
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -158,18 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Credit_Risk_Analysis/.gitignore at main · Kenner82/Credit_Risk_Analysis
